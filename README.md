@@ -11,5 +11,5 @@
 </div>
 
 # Time
-
- <img loading="lazy" src="https://avatars.githubusercontent.com/u/66263191?v=4" width=200><br><sub>Vitor Augusto width=200 </sub>
+<img loading="lazy" src="https://avatars.githubusercontent.com/u/66263191?v=4" width=200><br>
+<sub style="font-size: larger;">Vitor Augusto</sub>
