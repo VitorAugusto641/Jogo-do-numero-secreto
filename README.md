@@ -12,4 +12,4 @@
 
 # Time
 
-| [src="https://avatars.githubusercontent.com/u/66263191?v=4" width=115><br><sub>Vitor Augusto</sub>](https://github.com/VitorAugusto641) | 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/66263191?v=4" width=115><br><sub>Vitor Augusto</sub>](https://github.com/VitorAugusto641) | 
