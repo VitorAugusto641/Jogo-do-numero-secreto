@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) |
+|[<[img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115](https://avatars.githubusercontent.com/u/66263191?s=400&u=e28fa8f9a4bc1f7df8912a06ebf36913a320044d&v=4)https://avatars.githubusercontent.com/u/66263191?s=400&u=e28fa8f9a4bc1f7df8912a06ebf36913a320044d&v=4><br><sub>Vitor Augusto</sub>](https://github.com/rcaneppele) |
 | :---: | :---: |
