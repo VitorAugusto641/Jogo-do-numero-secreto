@@ -12,4 +12,4 @@
 
 # Time
 
- <img loading="lazy" src="https://avatars.githubusercontent.com/u/66263191?v=4" width=200><br><sub>Vitor Augusto</sub>
+ <img loading="lazy" src="https://avatars.githubusercontent.com/u/66263191?v=4" width=200><br><sub>Vitor Augusto width=200 </sub>
